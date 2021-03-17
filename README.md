@@ -6,7 +6,7 @@ Use `Node.js`, `Express` and `Knex` to build an API with authentication and auth
 
 ## Instructions
 
-### Task 1: Project Setup
+### Task 1: Project Setup ✅
 
 There are two possible ways to submit your project. Your instructor should have communicated which method to use for this project during the Guided Project and in your cohort's Slack channel. If you are still unsure, reach out to Lambda Staff.
 
@@ -18,7 +18,7 @@ There are two possible ways to submit your project. Your instructor should have 
 - [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`.
 - [ ] Check to see that Codegrade has accepted your git submission.
 
-#### Option B - Pull Request
+#### Option B - Pull Request ✅
 
 - [ ] Fork and clone the repository.
 - [ ] Implement your project in a `firstname-lastname` branch.
@@ -29,13 +29,13 @@ There are two possible ways to submit your project. Your instructor should have 
 
 You will complete the following tasks and do any extra wiring and package installation necessary for the app to compile and pass all tests.
 
-#### 2A - Database Access Functions
+#### 2A - Database Access Functions ✅
 
 Write the following user access functions inside `api/users/users-model.js`:
 
-- [ ] `find`
-- [ ] `findBy`
-- [ ] `findById`
+- [✅] `find`
+- [✅] `findBy`
+- [✅] `findById`
 
 #### 2B - Middleware Functions
 
